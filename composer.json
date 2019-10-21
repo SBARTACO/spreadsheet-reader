@@ -41,7 +41,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/nox-it/yii2-nox-spreadsheet-reader"
+      "url": "https://github.com/SBARTACO/php-spreadsheetreader"
     }
   ]
 }
